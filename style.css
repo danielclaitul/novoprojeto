@@ -114,7 +114,7 @@ section ul li:hover {
 }
 
 .channel-list img {
-    border-radius: 50%;
+    border-radius: 10%;
     width: 70px;
     border: 1px solid #443E54;
 }
