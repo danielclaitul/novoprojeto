@@ -27,7 +27,7 @@ body * {
 header {
     padding-top: 32px;
     text-align: center;
-    height: calc(120px + 32px);  
+    height: calc(120px + 32px); 
 }
 
 header div {
@@ -116,7 +116,7 @@ section ul li:hover {
 .games-list img {
     width: 90px;
     height: 90px;
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 .channel-list {
@@ -126,7 +126,7 @@ section ul li:hover {
 }
 
 .channel-list img {
-    border-radius: 10%;
+    border-radius: 5px;
     width: 100%;
     height: 100%;
     border: 1px solid #443E54;
